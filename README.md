@@ -4,10 +4,11 @@
 
 A Rust-based embedded clock controlled with `Embassy`.
 
-## Related Article
+## Related Articles (free on Medium)
 
-**[How Rust & Embassy Shine on Embedded Devices (Part 2): Insights for Everyone and Nine Rules for Embedded Programmers](https://medium.com/@carlmkadie/how-rust-embassy-shine-on-embedded-devices-part-2-aad1adfccf72)**  
-by **Carl M. Kadie & Brad Gibson**, free on Medium.
+* **[How Rust & Embassy Shine on Embedded Devices (Part 2): Insights for Everyone and Nine Rules for Embedded Programmers](https://medium.com/@carlmkadie/how-rust-embassy-shine-on-embedded-devices-part-2-aad1adfccf72)**  
+by **Carl M. Kadie & Brad Gibson**
+* **[device-envoy: Making Embedded Fun: With Rust, Embassy, and Composable Device Abstractions](https://medium.com/@carlmkadie/device-envoy-making-embedded-fun-31534917414b)**
 
 ![Clock](clock.jpg)
 
